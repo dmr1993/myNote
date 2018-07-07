@@ -1,0 +1,8 @@
+Tomcat_startup
+Windows系统命令窗口启动Tomcat9。
+一、启动Tomcat
+C:\Tomcat9\bin> startup.bat
+二、关闭Tomcat
+C:\Tomcat9\bin> shutdown.bat
+三、查看Tomcat是否配置成功
+https://localhost:8080/
